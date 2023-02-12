@@ -1,0 +1,7 @@
+{
+	"project_name": "my-project",
+	"scripts_repo": "src", 
+	"notebooks_repo": "notebooks", 
+	"models_repo": "models", 
+	"data_repo": "data"
+}
